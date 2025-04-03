@@ -1,15 +1,13 @@
 import './App.css'
-import {Typography} from '@mui/material'
+import React from 'react'
+import Home from './pages/home'
 
-function App() {
-
+const App: React.FC = () => {
   return (
     <>
-      <Typography>
-        helo hello
-      </Typography>
+      <Home/>
     </>
   )
 }
 
-export default App
+export default App;
