@@ -15,6 +15,8 @@ const Footer: React.FC = () => {
                     color: "white",
                     padding: 1,
                 }}
+                className="footer"
+                position="static"
             >
                 <Box
                     sx={{
