@@ -1,4 +1,4 @@
-import React, { use, useState } from "react";
+import React, { useState } from "react";
 import { Box, Container, Typography, Divider } from "@mui/material";
 import Footer from "../components/footer/footer";
 import UrlForm from "../components/urlForm/urlForm";
