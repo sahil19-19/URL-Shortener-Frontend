@@ -34,13 +34,13 @@ const Footer: React.FC = () => {
                     }}
                 >
                     {/* icons */}
-                    <IconButton href="https://www.linkedin.com/company/accredianedu/">
+                    <IconButton target="_blank" href="https://github.com/sahil19-19">
                         <GitHubIcon sx={{color : 'white'}} />
                     </IconButton>
-                    <IconButton href="">
+                    <IconButton target="_blank" href="https://www.linkedin.com/in/sahilwerma/">
                         <LinkedInIcon sx={{color : 'white'}} />
                     </IconButton>
-                    <IconButton href="">
+                    <IconButton target="_blank" href="mailto:sahil.for.dev@gmail.com">
                         <EmailIcon sx={{color : 'white'}} />
                     </IconButton>
                 </Box>
