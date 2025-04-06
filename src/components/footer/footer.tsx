@@ -24,7 +24,6 @@ const Footer: React.FC = () => {
                         "& svg": {
                             fontSize: "25px",
                             cursor: "pointer",
-                            mr: 2,
                         },
                         "& svg:hover": {
                             color: " rgb(97 201 201) ",
@@ -35,13 +34,13 @@ const Footer: React.FC = () => {
                 >
                     {/* icons */}
                     <IconButton target="_blank" href="https://github.com/sahil19-19">
-                        <GitHubIcon sx={{color : 'white'}} />
+                        <GitHubIcon sx={{color : 'white', mx: '8px'}} />
                     </IconButton>
                     <IconButton target="_blank" href="https://www.linkedin.com/in/sahilwerma/">
-                        <LinkedInIcon sx={{color : 'white'}} />
+                        <LinkedInIcon sx={{color : 'white', mx: '8px'}} />
                     </IconButton>
                     <IconButton target="_blank" href="mailto:sahil.for.dev@gmail.com">
-                        <EmailIcon sx={{color : 'white'}} />
+                        <EmailIcon sx={{color : 'white', mx: '8px'}} />
                     </IconButton>
                 </Box>
                 <Typography
