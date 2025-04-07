@@ -36,7 +36,7 @@ Before you begin, ensure you have the following installed:
 
 ### 📌 Installation Steps
 
-#### **1️⃣ Clone the front-end repository**
+#### **1️⃣ Clone the repository**
 
 #### **2️⃣ Install Dependencies**
 
@@ -52,6 +52,20 @@ npm install
 npm run dev
 ```
 
+#### **5️⃣ Setup the backend following the steps mentioned in the README.md of the following repository**
+
+```bash
+https://github.com/sahil19-19/URL-Shortener
+```
+
+
+User Interface
+![image](https://github.com/user-attachments/assets/001fa77c-a8bb-46a1-96aa-bfdd92d82401)
+
+Example short URL creation
+![image](https://github.com/user-attachments/assets/03c6b230-7b56-47b4-b925-7036387092c4)
+
+![image](https://github.com/user-attachments/assets/d8696aa4-9e93-43f8-9a4f-0bcf2c704951)
 
 
 
