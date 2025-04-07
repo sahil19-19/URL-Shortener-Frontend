@@ -16,6 +16,7 @@ const UrlForm: React.FC<urlFormProps> = ({ setShortUrl }) => {
     const [helperText, setHelperText] = useState("");
 
     const handleSubmit = async (event: React.FormEvent) => {
+        setShortUrl("");
         event.preventDefault();
         if (!/^[a-zA-Z0-9]*$/.test(customUrl)) {
             setError(true);
