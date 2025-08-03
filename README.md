@@ -7,7 +7,7 @@
 ✅ **Logic to avoid duplication in database**  
 ✅ **Fully responsive design**  
 
-This repository contains the code for the front-end of the URL shortener
+This repository contains the code for the front-end of the URL shortener  
 Link to back-end repository
 ```
 https://github.com/sahil19-19/URL-Shortener
